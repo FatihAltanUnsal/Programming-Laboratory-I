@@ -38,7 +38,7 @@ class Match {
     }
 }
 
-public class Main {
+public class Week1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
