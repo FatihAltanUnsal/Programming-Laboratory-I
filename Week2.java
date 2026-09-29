@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BusRoutePassengerTrackingSystem {
+public class Week2 {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             // 1. Enter Data (Veri Girisi)
